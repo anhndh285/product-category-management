@@ -26,14 +26,6 @@ GET `/api/categories`
 
 ### Create product
 POST `/api/products`
-Body:
-```json
-{
-  "name": "Nike Mercurial",
-  "price": 1200000,
-  "quantity": 10,
-  "categoryId": 1
-}
 
 Link video demo: https://youtu.be/xX-OrHm8DEA?si=Xgsxc4Pxg5ZsnBka
 Update module: https://youtu.be/jIS3kmvHs5o?si=hvZaln9A6-19018Z
